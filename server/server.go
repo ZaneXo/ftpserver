@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/afero"
 
-	serverlib "github.com/fclairamb/ftpserverlib"
+	serverlib "github.com/ZaneXo/ftpserverlib"
 	log "github.com/fclairamb/go-log"
 
 	"github.com/fclairamb/ftpserver/config"

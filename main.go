@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	ftpserver "github.com/fclairamb/ftpserverlib"
+	ftpserver "github.com/ZaneXo/ftpserverlib"
 	gkwrap "github.com/fclairamb/go-log/gokit"
 	gokit "github.com/go-kit/log"
 
